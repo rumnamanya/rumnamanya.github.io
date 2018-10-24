@@ -1,0 +1,62 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    {% for project in site.data[page.parent] %}
+      {% if project.slug == page.slug %}
+        <span class="time">{{ project.date }}</span> &raquo;
+        {% for tag in project.tags %}
+          <span class="tags tag-filter">{{ tag }}</span>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  </header>
+
+
+  <div class="content">
+  {% include ad_links.html %}
+    {% for project in site.data[page.parent] %}
+      {% if project.slug == page.slug %}
+        <a href="{{ project.image }}" class="thickbox">
+          <img src="{{ project.image }}" alt="{{ page.title }}" title="{{ page.title }}">
+        </a>
+      {% endif %}
+    {% endfor %}
+    <hr />
+  {% include ad_responsive.html %}
+    {{ content }}
+  </div>
+
+<div class="projects">
+      
+      {% for i in site.data[page.parent] %}
+      <div class="project-item project-outer" data-tags='{{ i.tags | jsonify | downcase }}'>
+        <div class="project-inner">
+          <a href="{{ i.image }}" class="thickbox">
+            <div class="project-img bordered" style="background-image: url('{{ i.image }}');"></div>
+          </a>
+          {% assign p_url = nil %}
+          {% for pr in p_array %}
+            {% if pr contains i.slug %}
+              {% assign p_url = pr[1] %}
+            {% endif %}
+          {% endfor %}
+
+          {% if p_url == nil %}{% assign p_url = i.url %}{% endif %}
+          {% if p_url %}
+            <a class="project-detail" href="{{ p_url }}">
+          {% endif %}
+            <h3 class="project-headlines">{{ i.name }}</h3>
+          {% if p_url %}
+            </a>
+          {% endif %}
+
+        </div>
+        <hr>
+      </div>
+      {% endfor %}
+</div>
+
+</article>

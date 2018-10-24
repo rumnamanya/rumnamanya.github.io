@@ -1,0 +1,7 @@
+---
+layout: project_single
+title:  "chasingthegreenfaerie: Pin by Stephanie on Dream House"
+slug: "chasingthegreenfaerie-pin-by-stephanie-on-dream-house"
+parent: "bohemian-kitchen-decor"
+---
+-PERFECT EXAMPLE OF SALVAGING CABINETS. THIS IS THE EXTREME EXAMPLE. I LIKE IT. USUALLY THOUGH YOU ARE ABLE TO GET A WHOLE SET OF OLDER CABINETS FROM NUMEROUS SOURCES...JUST HAVE TO GO LOOKING WITH A LITTLE CASH IN HAND..ALWAYS REMEMBERING YOU HAVE: LIQUID SAND 'PAPER', PRIMER, PAINT, BITS OF UNMATCHED HARDWARE TO ADD TO WHAT YOU FIND

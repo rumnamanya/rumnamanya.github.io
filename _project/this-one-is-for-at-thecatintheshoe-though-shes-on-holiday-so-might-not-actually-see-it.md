@@ -1,0 +1,7 @@
+---
+layout: project_single
+title:  "This one is for @thecatintheshoe though she's on holiday so might not actually see it  However she asked if we'd glazing plates in the gold glaze... and of course we will  (Because you're always on my mind... and that's not creepy at all ) .  On the "
+slug: "this-one-is-for-at-thecatintheshoe-though-shes-on-holiday-so-might-not-actually-see-it"
+parent: "ceramics-that-are-always-in-need-at-home"
+---
+This one is for @thecatintheshoe though she's on holiday so might not actually see it  However she asked if we'd glazing plates in the gold glaze... and of course we will  (Because you're always on my mind... and that's not creepy at all ) .  On the way home after an inspiring trip to Stoke-on-Trent and a cheeky collection of some clay  more on that tomorrow though... right now I need to do some catching up on this wedding lark... kind of hoping there will be some sort of 'match of the day' type highlight show?!  . . . . . #designertableware #tableware #stylemytable #kitchentable #wheelthrown #wheelthrownceramics #madebyhand #setthetable #dishes #dishset #handmadedecor #folklifestyle #slowlifestyle #forthehome #pottery #ceramics #claylife #thesimpleeveryday #theartofslowliving #seekthesimplicity #plates #thelifestylecollective #functionalpottery #wemakecollective #nestandflourish #collectandstyle #glosterspottery #shopsmallmovement #contemporarycraft #buyfolk
